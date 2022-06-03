@@ -1,5 +1,4 @@
-Para ejecutar la app nos movemos a la carpeta sofkau, Abriendo la terminal y moviendonos con cd.\sofkau\, una vez en la carpeta ejecutamos el comando:
-npm start
+Una vez descargado el proyecto extraemos el winrar y nos dejará una carpeta llamada "RetoTecnicoSofkaCorrecto-masterr" la abrimos con nuestro editor de codigo, en este caso VSCode y en la terminal ejegutamos "npm install" una vez terminar de instalarse nos dejará una carpeta llamada "node_module", a continuacion ejecutamos otro comando llamado "npm start" con eso estariamos abriendo un servidor en nuestra maquina y el quiz deberia quedar funcionabdo.
 
 # Getting Started with Create React App
 
