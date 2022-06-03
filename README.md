@@ -1,3 +1,6 @@
+Para ejecutar la app nos movemos a la carpeta sofkau, Abriendo la terminal y moviendonos con cd.\sofkau\, una vez en la carpeta ejecutamos el comando:
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
